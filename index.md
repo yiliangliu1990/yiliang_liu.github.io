@@ -70,34 +70,35 @@
 </ol>
 
 # 获奖
-- 2021.04 2021年度 IEEE Systems Journal （JCR一区）最佳论文
-- 2020.12 中国电子教育学会优秀博士学位论文（全国共20名）
-- 2021.06 哈尔滨工业大学优秀博士学位论文
-- 2015.10 第十四届“挑战杯”全国大学生课外学术科技作品竞赛二等奖(排名1/总人数8)，教育部
-- 2017.03 中国互联网发展基金会网络安全专项基金网络安全奖学金，中国互联网发展基金会
-- 2017.04 哈尔滨工业大学研究生国家奖学金，教育部
-
-# 社会活动
-## Reviewer for
-- IEEE Journal on Selected Areas in Communications 
-- IEEE Wireless Communications
-- IEEE Internet of Things Journal
-- IEEE Transactions on Signal Processing
-- IEEE Transactions on Wireless Communications
-- IEEE Transactions on Communications
-- IEEE Transactions on Vehicular Technology
-- IEEE Transactions on Information Forensics and Security 
-- IEEE Transactions on Green Communications and Networking
-- IEEE Access
-- IEEE Systems Journal
-- IEEE Communications Letters 
-- IEEE Wireless Communications Letters 
-- IEEE Signal Processing Letters 
-- IEEE Open Journal of the Communications Society
-- China Communications
-- Peer-to-Peer Networking and Applications
-- ACM Computing Surveys
-##
-TPC member
-- 2017, 2019 IEEE VTC
-- 2019, 2020, 2021 IEEE CIC ICCC 
+<ul>
+<li>2021.04 2021年度 IEEE Systems Journal （JCR一区）最佳论文
+<li>2020.12 中国电子教育学会优秀博士学位论文（全国共20名）
+<li>2021.06 哈尔滨工业大学优秀博士学位论文
+<li>2015.10 第十四届“挑战杯”全国大学生课外学术科技作品竞赛二等奖(排名1/总人数8)，教育部
+<li>2017.03 中国互联网发展基金会网络安全专项基金网络安全奖学金，中国互联网发展基金会
+<li>2017.04 哈尔滨工业大学研究生国家奖学金，教育部
+<\ul>
+  
+# 学术活动
+<ul>
+<li>IEEE Journal on Selected Areas in Communications 
+<li>IEEE Wireless Communications
+<li>IEEE Internet of Things Journal
+<li>IEEE Transactions on Signal Processing
+<li>IEEE Transactions on Wireless Communications
+<li>IEEE Transactions on Communications
+<li>IEEE Transactions on Vehicular Technology
+<li>IEEE Transactions on Information Forensics and Security 
+<li>IEEE Transactions on Green Communications and Networking
+<li>IEEE Access
+<li>IEEE Systems Journal
+<li>IEEE Communications Letters 
+<li>IEEE Wireless Communications Letters 
+<li>IEEE Signal Processing Letters 
+<li>IEEE Open Journal of the Communications Society
+<li>China Communications
+<li>Peer-to-Peer Networking and Applications
+<li>ACM Computing Surveys
+<li>2017, 2019 IEEE VTC TPC member
+<li>2019, 2020, 2021 IEEE CIC ICCC TPC member
+<\ul>
