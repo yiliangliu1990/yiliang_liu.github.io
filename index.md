@@ -77,9 +77,10 @@
 <li>2015.10 第十四届“挑战杯”全国大学生课外学术科技作品竞赛二等奖(排名1/总人数8)，教育部
 <li>2017.03 中国互联网发展基金会网络安全专项基金网络安全奖学金，中国互联网发展基金会
 <li>2017.04 哈尔滨工业大学研究生国家奖学金，教育部
-<\ul>
+</ul>
   
 # 学术活动
+Reviewer for
 <ul>
 <li>IEEE Journal on Selected Areas in Communications 
 <li>IEEE Wireless Communications
@@ -101,4 +102,4 @@
 <li>ACM Computing Surveys
 <li>2017, 2019 IEEE VTC TPC member
 <li>2019, 2020, 2021 IEEE CIC ICCC TPC member
-<\ul>
+</ul>
