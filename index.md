@@ -28,6 +28,7 @@
 - 2018.9 -- 2019.9，加拿大滑铁卢大学，电子计算机学院，联合培养，
 
 ### 期刊论文
+
 <ol>
 <li> Yiliang Liu*, Wei Wang, Hsiao Hwa Chen, Feng Lyu, Liangmin Wang, Weixiao Meng, and Xuemin (Sherman) Shen. Physical Layer Security-Assisted Computation Offloading in Intelligently Connected Vehicle Networks. IEEE Transactions on Wireless Communications, vol. 20, no. 6, pp. 3555-3570, 2021. （中科院一区，IF=7.016）
 <li> Yiliang Liu, Wei Wang, Hsiao Hwa Chen, Liangmin Wang, Nan Cheng, Weixiao Meng, and Xuemin (Sherman) Shen. Secrecy Rate Maximization via Radio Resource Allocation in Cellular Underlaying V2V Communications. IEEE Transactions on Vehicular Technology. vol. 69, no.7, pp. 7281-7294, 2020. （中科院二区，IF=5.978）
@@ -45,26 +46,28 @@
 <li> Pei Zhang, Yiliang Liu, Jianming Zhang, Liangmin Wang. Power allocation design and optimization for secure transmission in cognitive relay networks. Security and Communication Networks. vol. 9, no. 18, pp. 5133-5142, Dec. 2016. （中科院四区，IF=1.791）
 <li> 闫富朝，刘怡良，韩帅，孟维晓. 空天地通信网络物理层安全综述. 电信科学. vol. 36, no. 9, pp. 1-13, 2020.   
 <li> 李春彦，刘怡良，王良民. 车载自组网中基于交通场景的入侵检测机制. 山东大学报(工学版)， vol. 43, no. 6, pp. 29-34, 2013.  
-<ol>
+</ol>
 
 ### 会议论文
 <ol>
 <li> Yiliang Liu, Zhou Su, Yuntao Wang. Artificial Noise-Assisted Beamforming and Power Allocation for Secure D2D-Enabled V2V Communications. IEEE Vehicular Technology Conference 2021-Fall (VTC), 2021.
 <li> Fuchao Yan, Weixiao Meng, Yiliang Liu, Shuai Han. Artificial Noise Assisted MISO System Power Allocation and Its SDR Implementation. The 11th International Conference on Wireless Communications and Signal Processing (WCSP) 2019, Xian, China, 2019, pp. 1-6.
-<ol>
+</ol>
 
 ### 专著
 
 - Yiliang Liu, Artificial Noise Schemes Based on MIMO Technology in Secure Cellular Networks. Cham: Springer International Publishing, Encyclopedia of Wireless Networks, 2018. Editors: Xuemin (Sherman) Shen, Xiaodong Lin, Kuan Zhang.
 
 ### 项目
-1. 2022.01-2024.12 基于智能反射表面的无线物理层安全技术研究（6210010668），国家自然科学基金青年科学基金项目，西安交通大学，24万，主持，在研
-2. 2019.01-2022.12网联汽车群体智能协同网络通信的决策理论和方法（U1808207），国家自然科学基金联合基金重点项目，西安交通大学，249万，主要参与人，在研
-3. 2021.01-2024.12面向物联网的区块链可信共识及智能合约安全防护方法研究（U20A20175），国家自然科学基金区域联合基金重点项目，西安交通大学，260万，主要参与人，在研
-4. 2018.01-2021.12 智能网联汽车信息安全基础理论与防护关键技术研究（U1764263），国家自然科学基金重点项目，哈尔滨工业大学，244万，主要参与人，在研
-5. 2017.01-2020.12 超密集组网中区域频谱效率理论上界及干扰管理算法研究，国家自然科学基金面上项目，哈尔滨工业大学，58万，主要参与人，完成
-6. 2015.01-2018.12 基于车辆身份的VANET安全机制及其系统评估方法研究，国家自然科学基金面上项目，江苏大学，82万，主要参与人，完成
-7. 2013.01-2016.12 面向物联网的混合式传感网容侵结构及关键技术研究，国家自然科学基金面上项目，江苏大学，82万，主要参与人，完成
+<ol>
+<li> 2022.01-2024.12 基于智能反射表面的无线物理层安全技术研究（6210010668），国家自然科学基金青年科学基金项目，西安交通大学，24万，主持，在研
+<li> 2019.01-2022.12网联汽车群体智能协同网络通信的决策理论和方法（U1808207），国家自然科学基金联合基金重点项目，西安交通大学，249万，主要参与人，在研
+<li> 2021.01-2024.12面向物联网的区块链可信共识及智能合约安全防护方法研究（U20A20175），国家自然科学基金区域联合基金重点项目，西安交通大学，260万，主要参与人，在研
+<li> 2018.01-2021.12 智能网联汽车信息安全基础理论与防护关键技术研究（U1764263），国家自然科学基金重点项目，哈尔滨工业大学，244万，主要参与人，在研
+<li> 2017.01-2020.12 超密集组网中区域频谱效率理论上界及干扰管理算法研究，国家自然科学基金面上项目，哈尔滨工业大学，58万，主要参与人，完成
+<li> 2015.01-2018.12 基于车辆身份的VANET安全机制及其系统评估方法研究，国家自然科学基金面上项目，江苏大学，82万，主要参与人，完成
+<li> 2013.01-2016.12 面向物联网的混合式传感网容侵结构及关键技术研究，国家自然科学基金面上项目，江苏大学，82万，主要参与人，完成
+</ol>
 
 ### 获奖
 - 2021.04 2021年度 IEEE Systems Journal （JCR一区）最佳论文
@@ -75,3 +78,26 @@
 - 2017.04 哈尔滨工业大学研究生国家奖学金，教育部
 
 ### 社会活动
+## Reviewer for
+- IEEE Journal on Selected Areas in Communications 
+- IEEE Wireless Communications
+- IEEE Internet of Things Journal
+- IEEE Transactions on Signal Processing
+- IEEE Transactions on Wireless Communications
+- IEEE Transactions on Communications
+- IEEE Transactions on Vehicular Technology
+- IEEE Transactions on Information Forensics and Security 
+- IEEE Transactions on Green Communications and Networking
+- IEEE Access
+- IEEE Systems Journal
+- IEEE Communications Letters 
+- IEEE Wireless Communications Letters 
+- IEEE Signal Processing Letters 
+- IEEE Open Journal of the Communications Society
+- China Communications
+- Peer-to-Peer Networking and Applications
+- ACM Computing Surveys
+##
+TPC member
+- 2017, 2019 IEEE VTC
+- 2019, 2020, 2021 IEEE CIC ICCC 
