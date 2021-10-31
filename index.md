@@ -14,20 +14,20 @@
   </tr>
 </table>
 
-### 简介
+# 简介
 西安交通大学助理教授，以第一作者发表了包括IEEE TIFS, IEEE TWC, IEEE TVT等本领域SCI期刊 JCR一区期刊论文6篇（且1篇入选了ESI高被引论文），EI论文2篇，单篇影响因子达到25，单篇引用次数超过400次。获得中国电子教育学会2020年度优秀博士学位论文奖，2021年度IEEE Systems Journal（JCR一区期刊）最佳论文奖等荣誉奖项。参与院士专著撰写一部。主持国家自然科学基金青年项目，参与国家自然科学基金重点项目、面上项目多个课题。研究领域聚焦物理层安全和国家5G等新基建设施安全相关的关键技术。
 
-### 教育背景
+# 教育背景
 - 2015.9 -- 2020.6，哈尔滨工业大学，电子与信息工程学院，博士 
 - 2012.9 -- 2015.6，江苏大学，计算机学院，硕士 
 - 2008.9 -- 2012.6，江苏大学，计算机学院，学士
 
-### 工作经历
+# 工作经历
 - 2020.11 -- 2021.2，西安交通大学，网络空间安全学院，科研助理
 - 2020.7 -- 2020.11，哈尔滨工业大学，电子与信息工程学院，科研助理
 - 2018.9 -- 2019.9，加拿大滑铁卢大学，电子计算机学院，联合培养，
 
-### 期刊论文
+# 期刊论文
 
 <ol>
 <li> Yiliang Liu*, Wei Wang, Hsiao Hwa Chen, Feng Lyu, Liangmin Wang, Weixiao Meng, and Xuemin (Sherman) Shen. Physical Layer Security-Assisted Computation Offloading in Intelligently Connected Vehicle Networks. IEEE Transactions on Wireless Communications, vol. 20, no. 6, pp. 3555-3570, 2021. （中科院一区，IF=7.016）
@@ -48,17 +48,17 @@
 <li> 李春彦，刘怡良，王良民. 车载自组网中基于交通场景的入侵检测机制. 山东大学报(工学版)， vol. 43, no. 6, pp. 29-34, 2013.  
 </ol>
 
-### 会议论文
+# 会议论文
 <ol>
 <li> Yiliang Liu, Zhou Su, Yuntao Wang. Artificial Noise-Assisted Beamforming and Power Allocation for Secure D2D-Enabled V2V Communications. IEEE Vehicular Technology Conference 2021-Fall (VTC), 2021.
 <li> Fuchao Yan, Weixiao Meng, Yiliang Liu, Shuai Han. Artificial Noise Assisted MISO System Power Allocation and Its SDR Implementation. The 11th International Conference on Wireless Communications and Signal Processing (WCSP) 2019, Xian, China, 2019, pp. 1-6.
 </ol>
 
-### 专著
+# 专著
 
 - Yiliang Liu, Artificial Noise Schemes Based on MIMO Technology in Secure Cellular Networks. Cham: Springer International Publishing, Encyclopedia of Wireless Networks, 2018. Editors: Xuemin (Sherman) Shen, Xiaodong Lin, Kuan Zhang.
 
-### 项目
+# 项目
 <ol>
 <li> 2022.01-2024.12 基于智能反射表面的无线物理层安全技术研究（6210010668），国家自然科学基金青年科学基金项目，西安交通大学，24万，主持，在研
 <li> 2019.01-2022.12网联汽车群体智能协同网络通信的决策理论和方法（U1808207），国家自然科学基金联合基金重点项目，西安交通大学，249万，主要参与人，在研
@@ -69,7 +69,7 @@
 <li> 2013.01-2016.12 面向物联网的混合式传感网容侵结构及关键技术研究，国家自然科学基金面上项目，江苏大学，82万，主要参与人，完成
 </ol>
 
-### 获奖
+# 获奖
 - 2021.04 2021年度 IEEE Systems Journal （JCR一区）最佳论文
 - 2020.12 中国电子教育学会优秀博士学位论文（全国共20名）
 - 2021.06 哈尔滨工业大学优秀博士学位论文
@@ -77,7 +77,7 @@
 - 2017.03 中国互联网发展基金会网络安全专项基金网络安全奖学金，中国互联网发展基金会
 - 2017.04 哈尔滨工业大学研究生国家奖学金，教育部
 
-### 社会活动
+# 社会活动
 ## Reviewer for
 - IEEE Journal on Selected Areas in Communications 
 - IEEE Wireless Communications
