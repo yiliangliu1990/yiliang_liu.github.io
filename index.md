@@ -28,30 +28,35 @@
 - 2018.9 -- 2019.9，加拿大滑铁卢大学，电子计算机学院，联合培养，
 
 ### 期刊论文
-16. Yiliang Liu*, Wei Wang, Hsiao Hwa Chen, Feng Lyu, Liangmin Wang, Weixiao Meng, and Xuemin (Sherman) Shen. Physical Layer Security-Assisted Computation Offloading in Intelligently Connected Vehicle Networks. IEEE Transactions on Wireless Communications, vol. 20, no. 6, pp. 3555-3570, 2021. （中科院一区，IF=7.016）
-15. Yiliang Liu, Wei Wang, Hsiao Hwa Chen, Liangmin Wang, Nan Cheng, Weixiao Meng, and Xuemin (Sherman) Shen. Secrecy Rate Maximization via Radio Resource Allocation in Cellular Underlaying V2V Communications. IEEE Transactions on Vehicular Technology. vol. 69, no.7, pp. 7281-7294, 2020. （中科院二区，IF=5.978）
-14. Yiliang Liu, Hsiao Hwa Chen, Liangmin Wang, and Weixiao Meng. Artificial Noisy MIMO Systems under Correlated Scattering Rayleigh Fading -- A Physical Layer Security Approach. IEEE Systems Journal. vol. 14, no. 2, pp.2021-2032, 2020. (中科院二区，IF=3.931, 年度最佳论文)
-13. Yiliang Liu, Hsiao Hwa Chen, and Liangmin Wang. Secrecy Capacity Analysis of Artificial Noisy MIMO Channels - an Approach Based on Ordered Eigenvalues of Wishart Matrices. IEEE Transactions on Information Forensics and Security. vol. 12, no. 3, pp. 617-630, March 2017.（中科院一区，IF=7.178）
-12. Yiliang Liu, Hsiao Hwa Chen, and Liangmin Wang. Physical Layer Security for Next Generation Wireless Networks: Theories, Technologies, and Challenges. IEEE Communications Surveys and Tutorials. vol. 19, no. 1, pp. 347-376, First Quarter 2017. (ESI高被引，中科院一区，IF=25.249)
-11. Yiliang Liu*, Liangmin Wang, Hsiao Hwa Chen. Message Authentication Using Proxy Vehicles in Vehicular Ad Hoc Networks. IEEE Transactions on Vehicular Technology. vol. 64, no. 8, pp. 3697-3710, 2015. （中科院二区，IF=5.978）
-10. 刘怡良，石亚丽，冯蒿，王良民. 车联网种基于神经网络的入侵检测方案. 通信学报; vol. 35, Z1, pp. 233-239, Nov. 2014.
-9. Wei Wang*, Nan Cheng, Yiliang Liu*, Haibo Zhou, Xiaodong Lin, and Xuemin (Sherman) Shen. Content Delivery Analysis in Cellular Networks with Aerial Caching and mmWAVE Backhaul. Accepted in IEEE Transactions on Vehicular Technology. 2021. (中科院二区，IF=5.978)
-8. Xuewen Luo, Yiliang Liu, Hsiao Hwa Chen, and Weixiao Meng. Artificial Noise Assisted Secure Mobile Crowd Computing in Intelligently Connected Vehicular Networks. Accepted in IEEE Transactions on Vehicular Technology. 2021. （中科院二区，IF=5.978）
-7. Xiaoyan Zhang, Shunrong Jiang, Yiliang Liu, and Yong Zhou. Privacy-Preserving Scheme with Account-Mapping and Noise-Adding for Energy Trading Based on Consortium Blockchain. Accepted in IEEE Transactions on Network and Service Management. 2021. （中科院二区，IF=4.195）
-6. Xuewen Luo, Yiliang Liu, Hsiao Hwa Chen, Qing Guo. Physical Layer Security in Intelligently Connected Vehicle Networks. IEEE Network. vol. 34, no. 5, pp. 232-239, Sep. /Oct. 2020. （中科院一区，IF=10.693）
-5. Yunchao Song, Chen Liu, Yiliang Liu, Nan Cheng, and Xuemin (Sherman) Shen. Joint Spatial Division and Multiplexing in Massive MIMO: A Neighbor-based Approach. IEEE Transactions on Wireless Communications. vol. 19, no.11, pp. 7392 - 7406, 2020. （中科院一区，IF=7.016）
-4. Yi Song, Weiwei Yang, Zhongwu Xiang, Yiliang Liu, Yueming Cai. Secure Transmission in mmWave Wiretap Channels: On Sector Guard Zone. Entropy, vol. 21, no. 427, pp. 1-20, 2019. (中科院三区，IF=2.587)
-3. Pei Zhang, Yiliang Liu, Jianming Zhang, Liangmin Wang. Power allocation design and optimization for secure transmission in cognitive relay networks. Security and Communication Networks. vol. 9, no. 18, pp. 5133-5142, Dec. 2016. （中科院四区，IF=1.791）
-2. 闫富朝，刘怡良，韩帅，孟维晓. 空天地通信网络物理层安全综述. 电信科学. vol. 36, no. 9, pp. 1-13, 2020.   
-1. 李春彦，刘怡良，王良民. 车载自组网中基于交通场景的入侵检测机制. 山东大学报(工学版)， vol. 43, no. 6, pp. 29-34, 2013.  
+<ol>
+<li> Yiliang Liu*, Wei Wang, Hsiao Hwa Chen, Feng Lyu, Liangmin Wang, Weixiao Meng, and Xuemin (Sherman) Shen. Physical Layer Security-Assisted Computation Offloading in Intelligently Connected Vehicle Networks. IEEE Transactions on Wireless Communications, vol. 20, no. 6, pp. 3555-3570, 2021. （中科院一区，IF=7.016）
+<li> Yiliang Liu, Wei Wang, Hsiao Hwa Chen, Liangmin Wang, Nan Cheng, Weixiao Meng, and Xuemin (Sherman) Shen. Secrecy Rate Maximization via Radio Resource Allocation in Cellular Underlaying V2V Communications. IEEE Transactions on Vehicular Technology. vol. 69, no.7, pp. 7281-7294, 2020. （中科院二区，IF=5.978）
+<li> Yiliang Liu, Hsiao Hwa Chen, Liangmin Wang, and Weixiao Meng. Artificial Noisy MIMO Systems under Correlated Scattering Rayleigh Fading -- A Physical Layer Security Approach. IEEE Systems Journal. vol. 14, no. 2, pp.2021-2032, 2020. (中科院二区，IF=3.931, 年度最佳论文)
+<li> Yiliang Liu, Hsiao Hwa Chen, and Liangmin Wang. Secrecy Capacity Analysis of Artificial Noisy MIMO Channels - an Approach Based on Ordered Eigenvalues of Wishart Matrices. IEEE Transactions on Information Forensics and Security. vol. 12, no. 3, pp. 617-630, March 2017.（中科院一区，IF=7.178）
+<li> Yiliang Liu, Hsiao Hwa Chen, and Liangmin Wang. Physical Layer Security for Next Generation Wireless Networks: Theories, Technologies, and Challenges. IEEE Communications Surveys and Tutorials. vol. 19, no. 1, pp. 347-376, First Quarter 2017. (ESI高被引，中科院一区，IF=25.249)
+<li> Yiliang Liu*, Liangmin Wang, Hsiao Hwa Chen. Message Authentication Using Proxy Vehicles in Vehicular Ad Hoc Networks. IEEE Transactions on Vehicular Technology. vol. 64, no. 8, pp. 3697-3710, 2015. （中科院二区，IF=5.978）
+<li> 刘怡良，石亚丽，冯蒿，王良民. 车联网种基于神经网络的入侵检测方案. 通信学报; vol. 35, Z1, pp. 233-239, Nov. 2014.
+<li> Wei Wang*, Nan Cheng, Yiliang Liu*, Haibo Zhou, Xiaodong Lin, and Xuemin (Sherman) Shen. Content Delivery Analysis in Cellular Networks with Aerial Caching and mmWAVE Backhaul. Accepted in IEEE Transactions on Vehicular Technology. 2021. (中科院二区，IF=5.978)
+<li> Xuewen Luo, Yiliang Liu, Hsiao Hwa Chen, and Weixiao Meng. Artificial Noise Assisted Secure Mobile Crowd Computing in Intelligently Connected Vehicular Networks. Accepted in IEEE Transactions on Vehicular Technology. 2021. （中科院二区，IF=5.978）
+<li> Xiaoyan Zhang, Shunrong Jiang, Yiliang Liu, and Yong Zhou. Privacy-Preserving Scheme with Account-Mapping and Noise-Adding for Energy Trading Based on Consortium Blockchain. Accepted in IEEE Transactions on Network and Service Management. 2021. （中科院二区，IF=4.195）
+<li> Xuewen Luo, Yiliang Liu, Hsiao Hwa Chen, Qing Guo. Physical Layer Security in Intelligently Connected Vehicle Networks. IEEE Network. vol. 34, no. 5, pp. 232-239, Sep. /Oct. 2020. （中科院一区，IF=10.693）
+<li> Yunchao Song, Chen Liu, Yiliang Liu, Nan Cheng, and Xuemin (Sherman) Shen. Joint Spatial Division and Multiplexing in Massive MIMO: A Neighbor-based Approach. IEEE Transactions on Wireless Communications. vol. 19, no.11, pp. 7392 - 7406, 2020. （中科院一区，IF=7.016）
+<li> Yi Song, Weiwei Yang, Zhongwu Xiang, Yiliang Liu, Yueming Cai. Secure Transmission in mmWave Wiretap Channels: On Sector Guard Zone. Entropy, vol. 21, no. 427, pp. 1-20, 2019. (中科院三区，IF=2.587)
+<li> Pei Zhang, Yiliang Liu, Jianming Zhang, Liangmin Wang. Power allocation design and optimization for secure transmission in cognitive relay networks. Security and Communication Networks. vol. 9, no. 18, pp. 5133-5142, Dec. 2016. （中科院四区，IF=1.791）
+<li> 闫富朝，刘怡良，韩帅，孟维晓. 空天地通信网络物理层安全综述. 电信科学. vol. 36, no. 9, pp. 1-13, 2020.   
+<li> 李春彦，刘怡良，王良民. 车载自组网中基于交通场景的入侵检测机制. 山东大学报(工学版)， vol. 43, no. 6, pp. 29-34, 2013.  
+<ol>
 
 ### 会议论文
-2. Yiliang Liu, Zhou Su, Yuntao Wang. Artificial Noise-Assisted Beamforming and Power Allocation for Secure D2D-Enabled V2V Communications. IEEE Vehicular Technology Conference 2021-Fall (VTC), 2021.
-1. Fuchao Yan, Weixiao Meng, Yiliang Liu, Shuai Han. Artificial Noise Assisted MISO System Power Allocation and Its SDR Implementation. The 11th International Conference on Wireless Communications and Signal Processing (WCSP) 2019, Xian, China, 2019, pp. 1-6.
+<ol>
+<li> Yiliang Liu, Zhou Su, Yuntao Wang. Artificial Noise-Assisted Beamforming and Power Allocation for Secure D2D-Enabled V2V Communications. IEEE Vehicular Technology Conference 2021-Fall (VTC), 2021.
+<li> Fuchao Yan, Weixiao Meng, Yiliang Liu, Shuai Han. Artificial Noise Assisted MISO System Power Allocation and Its SDR Implementation. The 11th International Conference on Wireless Communications and Signal Processing (WCSP) 2019, Xian, China, 2019, pp. 1-6.
+<ol>
+
 ### 专著
 
 - Yiliang Liu, Artificial Noise Schemes Based on MIMO Technology in Secure Cellular Networks. Cham: Springer International Publishing, Encyclopedia of Wireless Networks, 2018. Editors: Xuemin (Sherman) Shen, Xiaodong Lin, Kuan Zhang.
-- 
+
 ### 项目
 1. 2022.01-2024.12 基于智能反射表面的无线物理层安全技术研究（6210010668），国家自然科学基金青年科学基金项目，西安交通大学，24万，主持，在研
 2. 2019.01-2022.12网联汽车群体智能协同网络通信的决策理论和方法（U1808207），国家自然科学基金联合基金重点项目，西安交通大学，249万，主要参与人，在研
