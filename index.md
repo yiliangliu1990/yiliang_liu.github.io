@@ -8,6 +8,7 @@
       <p><b>地址：陕西省西安市碑林区西安交通大学彭康楼244</b></p>
       <p><b>研究内容：无线通信，信息安全，物理层安全，区块链</b></p>
       <p><b>个人主页：https://gr.xjtu.edu.cn/web/yiliang.liu</b></p>
+      <p><b>谷歌学术：https://scholar.google.com/citations?hl=en&user=beCuvCwAAAAJ</b></p>
     </td>
   </tr>
 </table>
