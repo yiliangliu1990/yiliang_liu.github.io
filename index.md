@@ -51,6 +51,19 @@
 1.  **Yiliang Liu**, Zhou Su, Endogenous Security of Computation Offloading in Blockchain-Empowered Internet of Things. 2021 International Conference on Advanced Computing and Endogenous Security, Nanjing, China, 2021, pp. 1-5.
 1.  Fuchao Yan, Weixiao Meng, **Yiliang Liu**, Shuai Han. Artificial Noise Assisted MISO System Power Allocation and Its SDR Implementation. The 11th International Conference on Wireless Communications and Signal Processing (WCSP) 2019, Xian, China, 2019, pp. 1-6.
 
+# 专利
+1. 2017.10授权《一种基于RSU协助认证的车-车安全通信方法》, ZL201510126601.1
+1. 2017.10授权《一种车联网中虚假交通信息的识别方法》, ZL201510129183.1
+1. 2019.03授权《一种面向5G车联网物理层安全的车载中继簇分配方案》, ZL201510890964.2
+1. 2018.01授权 《车联网中基于位置隐私的环签名方法》, ZL201410366159.5
+1. 2018.02授权《车联网中基于证书的车辆身份认证方法》, ZL201410448958.7
+1. 2017.08授权 《车联网中可抵御多种虚假身份来源的Sybil攻击的方法》, ZL201510151545.7
+1. 2017.08授权《一种VANET中可提供长连接服务的路由选择方法》, ZL201510142693.2
+1. 2019.08授权《一种 均分RSU计算量的车辆身份认证方法》, ZL201510161321.4
+1. 2020.09授权《一种面向5G蜂窝网物理层安全的D2D隐蔽通信系统及其通信方法》, ZL201810634774.8
+1. 2019.10受理《一种基于软件无线电的人工噪声辅助的MISO系统的验证平台实现方法与流程》, CN201911032014.0
+1. 2019.10受理 《一种 V2V 通信中基于资源分配的物理层安全方法与系统》, CN201910185395.X
+1. 2021.05受理 《一种 多天线设备之间的物理层安全通信方法》, CN202110512016.0 
 
 # 专著
 
