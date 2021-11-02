@@ -47,7 +47,8 @@
 
 
 # 会议论文
-1.  **Yiliang Liu**, Zhou Su, Yuntao Wang. Artificial Noise-Assisted Beamforming and Power Allocation for Secure D2D-Enabled V2V Communications. IEEE Vehicular Technology Conference 2021-Fall (VTC), 2021.
+1.  **Yiliang Liu**, Zhou Su, Yuntao Wang. Artificial Noise-Assisted Beamforming and Power Allocation for Secure D2D-Enabled V2V Communications. IEEE Vehicular Technology Conference 2021-Fall (VTC), Virtual Conference, 2021.
+1.  **Yiliang Liu**, Zhou Su, Endogenous Security of Computation Offloading in Blockchain-Empowered Internet of Things. 2021 International Conference on Advanced Computing and Endogenous Security, Nanjing, China, 2021, pp. 1-5.
 1.  Fuchao Yan, Weixiao Meng, **Yiliang Liu**, Shuai Han. Artificial Noise Assisted MISO System Power Allocation and Its SDR Implementation. The 11th International Conference on Wireless Communications and Signal Processing (WCSP) 2019, Xian, China, 2019, pp. 1-6.
 
 
