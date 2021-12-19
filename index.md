@@ -29,6 +29,8 @@
 
 # 期刊论文
 
+1.  **Yiliang Liu**, Zhou Su, and Yuntao Wang, Energy-Efficient and Physical Layer Secure Computation Offloading in Blockchain-Empowered Internet of Things, IEEE Internet of Things, Submitted.
+1.  **Yiliang Liu**, Zhou Su, Chi Zhang, and Hsiao Hwa Chen, Minimization of Secrecy Outage Probability in Intelligent Reflecting Surfaces-Assisted MIMOME System, IEEE Transactions on Wireless Communications, Submitted.
 1.  **Yiliang Liu***, Wei Wang, Hsiao Hwa Chen, Feng Lyu, Liangmin Wang, Weixiao Meng, and Xuemin (Sherman) Shen. Physical Layer Security-Assisted Computation Offloading in Intelligently Connected Vehicle Networks. IEEE Transactions on Wireless Communications, vol. 20, no. 6, pp. 3555-3570, 2021. （中科院一区，IF=7.016）
 1.  **Yiliang Liu**, Wei Wang, Hsiao Hwa Chen, Liangmin Wang, Nan Cheng, Weixiao Meng, and Xuemin (Sherman) Shen. Secrecy Rate Maximization via Radio Resource Allocation in Cellular Underlaying V2V Communications. IEEE Transactions on Vehicular Technology. vol. 69, no.7, pp. 7281-7294, 2020. （中科院二区，IF=5.978）
 1.  **Yiliang Liu**, Hsiao Hwa Chen, Liangmin Wang, and Weixiao Meng. Artificial Noisy MIMO Systems under Correlated Scattering Rayleigh Fading -- A Physical Layer Security Approach. IEEE Systems Journal. vol. 14, no. 2, pp.2021-2032, 2020. (中科院二区，IF=3.931, 年度最佳论文)
