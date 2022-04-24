@@ -75,7 +75,7 @@
 - Yiliang Liu, Artificial Noise Schemes Based on MIMO Technology in Secure Cellular Networks. Cham: Springer International Publishing, Encyclopedia of Wireless Networks, 2018. Editors: Xuemin (Sherman) Shen, Xiaodong Lin, Kuan Zhang.
 
 # 项目
-1.  2022.01-2024.12 基于智能反射表面的无线物理层安全技术研究（6210010668），国家自然科学基金青年科学基金项目，西安交通大学，24万，主持，在研
+1.  2022.01-2024.12 基于智能反射表面的无线物理层安全技术研究（62101429），国家自然科学基金青年科学基金项目，西安交通大学，30万，主持，在研
 1.  2019.01-2022.12网联汽车群体智能协同网络通信的决策理论和方法（U1808207），国家自然科学基金联合基金重点项目，西安交通大学，249万，主要参与人，在研
 1.  2021.01-2024.12面向物联网的区块链可信共识及智能合约安全防护方法研究（U20A20175），国家自然科学基金区域联合基金重点项目，西安交通大学，260万，主要参与人，在研
 1.  2018.01-2021.12 智能网联汽车信息安全基础理论与防护关键技术研究（U1764263），国家自然科学基金重点项目，哈尔滨工业大学，244万，主要参与人，在研
@@ -94,7 +94,7 @@
 
   
 # 学术活动
-Reviewer for
+1. Reviewer for
 - IEEE Journal on Selected Areas in Communications 
 - IEEE Wireless Communications
 - IEEE Internet of Things Journal
@@ -115,4 +115,5 @@ Reviewer for
 - ACM Computing Surveys
 - 2017, 2019 IEEE VTC TPC member
 - 2019, 2020, 2021 IEEE CIC ICCC TPC member
-
+2. 2020 丝绸之路大学联盟网络空间安全国际论坛 主持
+3. 2022 第四届先进计算与内生安全国际学术会议博士论坛 主持
