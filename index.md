@@ -94,6 +94,7 @@
 
   
 # 学术活动
+1. Guest Editor for Sensors (IF=3.576) Special Issue "Dynamic Spectrum Sharing for Future Wireless Systems"
 1. Reviewer for
 - IEEE Journal on Selected Areas in Communications 
 - IEEE Wireless Communications
