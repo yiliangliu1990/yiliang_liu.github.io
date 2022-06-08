@@ -51,6 +51,7 @@
 
 
 # 会议论文
+1. Xiangrui Cheng, **Yiliang Liu**, Zhou Su, Wei Wang, Secrecy Outage Probability Fairness for Intelligent Reflecting Surface-Assisted Uplink Channel. IEEE Global Communications Conference (Globecom), submitted.
 1.  **Yiliang Liu**, Zhou Su, Yuntao Wang. Artificial Noise-Assisted Beamforming and Power Allocation for Secure D2D-Enabled V2V Communications. IEEE Vehicular Technology Conference 2021-Fall (VTC), Virtual Conference, 2021.
 1.  **Yiliang Liu**, Zhou Su, Endogenous Security of Computation Offloading in Blockchain-Empowered Internet of Things. 2021 International Conference on Advanced Computing and Endogenous Security, Nanjing, China, 2021, pp. 1-5.
 1.  Fuchao Yan, Weixiao Meng, **Yiliang Liu**, Shuai Han. Artificial Noise Assisted MISO System Power Allocation and Its SDR Implementation. The 11th International Conference on Wireless Communications and Signal Processing (WCSP) 2019, Xian, China, 2019, pp. 1-6.
@@ -75,9 +76,11 @@
 - Yiliang Liu, Artificial Noise Schemes Based on MIMO Technology in Secure Cellular Networks. Cham: Springer International Publishing, Encyclopedia of Wireless Networks, 2018. Editors: Xuemin (Sherman) Shen, Xiaodong Lin, Kuan Zhang.
 
 # 项目
+1.  2022.6-2022.10 基于WIFI的信号增强算法研究，企业横向，主持，在研
 1.  2022.01-2024.12 基于智能反射表面的无线物理层安全技术研究（62101429），国家自然科学基金青年科学基金项目，西安交通大学，30万，主持，在研
-1.  2019.01-2022.12网联汽车群体智能协同网络通信的决策理论和方法（U1808207），国家自然科学基金联合基金重点项目，西安交通大学，249万，主要参与人，在研
-1.  2021.01-2024.12面向物联网的区块链可信共识及智能合约安全防护方法研究（U20A20175），国家自然科学基金区域联合基金重点项目，西安交通大学，260万，主要参与人，在研
+1.  2022.01-2022.12 MIMOME系统中基于可重构智能表面的物理层安全技术，基本业务费，主持，在研
+1.  2019.01-2022.12 网联汽车群体智能协同网络通信的决策理论和方法（U1808207），国家自然科学基金联合基金重点项目，西安交通大学，249万，主要参与人，在研
+1.  2021.01-2024.12 面向物联网的区块链可信共识及智能合约安全防护方法研究（U20A20175），国家自然科学基金区域联合基金重点项目，西安交通大学，260万，主要参与人，在研
 1.  2018.01-2021.12 智能网联汽车信息安全基础理论与防护关键技术研究（U1764263），国家自然科学基金重点项目，哈尔滨工业大学，244万，主要参与人，在研
 1.  2017.01-2020.12 超密集组网中区域频谱效率理论上界及干扰管理算法研究，国家自然科学基金面上项目，哈尔滨工业大学，58万，主要参与人，完成
 1.  2015.01-2018.12 基于车辆身份的VANET安全机制及其系统评估方法研究，国家自然科学基金面上项目，江苏大学，82万，主要参与人，完成
