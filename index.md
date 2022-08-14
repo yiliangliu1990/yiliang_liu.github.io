@@ -14,7 +14,7 @@
 </table>
 
 # 简介
-西安交通大学助理教授，以第一作者发表了包括IEEE TIFS, IEEE TWC, IEEE TVT等本领域SCI期刊 JCR一区期刊论文7篇（且1篇入选了ESI高被引论文），EI论文2篇，单篇影响因子达到25，单篇引用次数超过400次。授权发明专利9项。获得中国电子教育学会2020年度优秀博士学位论文奖，2021年度IEEE Systems Journal（JCR一区期刊）最佳论文奖等荣誉奖项。参与院士专著撰写一部。主持国家自然科学基金青年项目，博士后面上项目，博士后特别资助项目等。研究领域聚焦物理层安全和国家5G等新基建设施安全相关的关键技术。
+西安交通大学助理教授，共发表论文20余篇，以第一作者发表了包括IEEE TIFS, IEEE TWC, IEEE TVT等本领域SCI期刊 JCR一区期刊论文7篇（且1篇入选了ESI高被引论文），EI论文2篇，单篇影响因子达到25，单篇引用次数超过400次。授权发明专利9项。获得中国电子教育学会2020年度优秀博士学位论文奖，2021年度IEEE Systems Journal（JCR一区期刊）最佳论文奖等荣誉奖项。参与院士专著撰写一部。主持国家自然科学基金青年项目，博士后面上项目，博士后特别资助项目等。研究领域聚焦物理层安全和国家5G等新基建设施安全相关的关键技术。
 
 # 教育背景
 - 2015.9 -- 2020.6，哈尔滨工业大学，电子与信息工程学院，博士 
@@ -29,8 +29,10 @@
 
 # 期刊论文
 
+
+
 1.  **Yiliang Liu**, Zhou Su, and Yuntao Wang, Energy-Efficient and Physical Layer Secure Computation Offloading in Blockchain-Empowered Internet of Things, IEEE Internet of Things, Accepted.
-1.  **Yiliang Liu**, Zhou Su, Chi Zhang, and Hsiao Hwa Chen, Minimization of Secrecy Outage Probability in Intelligent Reflecting Surfaces-Assisted MIMOME System, IEEE Transactions on Wireless Communications, Submitted.
+1.  **Yiliang Liu**, Zhou Su, Chi Zhang, and Hsiao Hwa Chen, Minimization of Secrecy Outage Probability in Intelligent Reflecting Surfaces-Assisted MIMOME System, IEEE Transactions on Wireless Communications, Minor.
 1.  **Yiliang Liu***, Wei Wang, Hsiao Hwa Chen, Feng Lyu, Liangmin Wang, Weixiao Meng, and Xuemin (Sherman) Shen. Physical Layer Security-Assisted Computation Offloading in Intelligently Connected Vehicle Networks. IEEE Transactions on Wireless Communications, vol. 20, no. 6, pp. 3555-3570, 2021. （中科院一区，IF=7.016）
 1.  **Yiliang Liu**, Wei Wang, Hsiao Hwa Chen, Liangmin Wang, Nan Cheng, Weixiao Meng, and Xuemin (Sherman) Shen. Secrecy Rate Maximization via Radio Resource Allocation in Cellular Underlaying V2V Communications. IEEE Transactions on Vehicular Technology. vol. 69, no.7, pp. 7281-7294, 2020. （中科院二区，IF=5.978）
 1.  **Yiliang Liu**, Hsiao Hwa Chen, Liangmin Wang, and Weixiao Meng. Artificial Noisy MIMO Systems under Correlated Scattering Rayleigh Fading -- A Physical Layer Security Approach. IEEE Systems Journal. vol. 14, no. 2, pp.2021-2032, 2020. (中科院二区，IF=3.931, 年度最佳论文)
@@ -38,6 +40,7 @@
 1.  **Yiliang Liu**, Hsiao Hwa Chen, and Liangmin Wang. Physical Layer Security for Next Generation Wireless Networks: Theories, Technologies, and Challenges. IEEE Communications Surveys and Tutorials. vol. 19, no. 1, pp. 347-376, First Quarter 2017. (ESI高被引，中科院一区，IF=25.249)
 1.  **Yiliang Liu***, Liangmin Wang, Hsiao Hwa Chen. Message Authentication Using Proxy Vehicles in Vehicular Ad Hoc Networks. IEEE Transactions on Vehicular Technology. vol. 64, no. 8, pp. 3697-3710, 2015. （中科院二区，IF=5.978）
 1.  **刘怡良**，石亚丽，冯蒿，王良民. 车联网种基于神经网络的入侵检测方案. 通信学报; vol. 35, Z1, pp. 233-239, Nov. 2014.
+1.  Guohuai Sang, Jingwei Chen, **Yiliang Liu**, Yong Zhou and Shunrong Jiang, PACM: Privacy-Preserving Authentication Scheme with On-Chain Certificate Management for VANETs, IEEE Transactions on Network and Service Managements, Accepted.
 1. Yuntao Wang, Zhou Su, Jiliang Li, Ning Zhang, Kuan Zhang, Kim-Kwang Raymond Choo, and **Yiliang Liu**, "Blockchain-Based Secure and Cooperative Private Charging Pile Sharing Services for Vehicular Networks," in IEEE Transactions on Vehicular Technology, vol. 71, no. 2, pp. 1857-1874, Feb. 2022. (中科院二区，IF=5.978)
 1.  Wei Wang*, Nan Cheng, **Yiliang Liu***, Haibo Zhou, Xiaodong Lin, and Xuemin (Sherman) Shen. Content Delivery Analysis in Cellular Networks with Aerial Caching and mmWAVE Backhaul. Accepted in IEEE Transactions on Vehicular Technology. 2021. (中科院二区，IF=5.978)
 1.  Xuewen Luo, **Yiliang Liu**, Hsiao Hwa Chen, and Weixiao Meng. Artificial Noise Assisted Secure Mobile Crowd Computing in Intelligently Connected Vehicular Networks. Accepted in IEEE Transactions on Vehicular Technology. 2021. （中科院二区，IF=5.978）
