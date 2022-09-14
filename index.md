@@ -1,7 +1,7 @@
 <table border="0">
   <tr>
     <td width="100%">
-      <h1>刘怡良，博士</h1>
+      <h1>刘怡良，博士，硕士生导师</h1>
       <p><b>籍贯：江苏徐州</b></p>
       <p><b>邮箱：liuyiliang@xjtu.edu.cn</b></p>
       <p><b>电话：(86) 18246097932</b></p>
