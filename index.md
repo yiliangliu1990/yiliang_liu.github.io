@@ -3,10 +3,11 @@
     <td width="100%">
       <h1>刘怡良，博士，硕士生导师</h1>
       <p><b>籍贯：江苏徐州</b></p>
+      <p><b>隶属：西安交通大学 电信学部 网络空间安全学院 & 教育部重点实验室</b></p>
       <p><b>邮箱：liuyiliang@xjtu.edu.cn</b></p>
       <p><b>电话：(86) 18246097932</b></p>
       <p><b>地址：陕西省西安市碑林区西安交通大学彭康楼244</b></p>
-      <p><b>研究内容：无线通信，信息安全，大数据，区块链</b></p>
+      <p><b>研究内容：无线通信，信息安全，物联网，大数据，区块链</b></p>
       <p><b>个人主页：https://gr.xjtu.edu.cn/web/yiliang.liu</b></p>
       <p><b>谷歌学术：https://scholar.google.com/citations?hl=en&user=beCuvCwAAAAJ</b></p>
     </td>
