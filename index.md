@@ -78,7 +78,7 @@
 - Yiliang Liu, Artificial Noise Schemes Based on MIMO Technology in Secure Cellular Networks. Cham: Springer International Publishing, Encyclopedia of Wireless Networks, 2018. Editors: Xuemin (Sherman) Shen, Xiaodong Lin, Kuan Zhang.
 
 # 项目
-1.  2022.01-2024.12 基于智能反射表面的无线物理层安全技术研究（62101429），国家自然科学基金青年科学基金项目，西安交通大学，30万，主持，在研
+1.  2022.01-2024.12 基于智能反射表面的无线物理层安全技术研究（62101429），国家自然科学基金青年科学基金项目，30万，主持，在研
 1.  2022.7-2023.1  第15批特别资助（站中），18万，主持，在研
 1.  2022.7-2023.1 MIMOME系统中可重构智能表面协助的物理层安全技术，博士后第71批面上资助，8万，主持，在研
 1.  2022.01-2023.12 数据要素市场交易模型研究，企业横向，180万，主持，在研
