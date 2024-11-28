@@ -26,5 +26,6 @@ to [Github Pages][1] without generating and uploading HTML bundle every time whe
 changes to the original repo.
 
 Google Scholar: [Yiliang Liu's Google Scholar](https://scholar.google.com/citations?user=beCuvCwAAAAJ&hl=en&authuser=1)
+
 Personal homepage (Chinese): [Yiliang Liu's XJTU Homepage](https://gr.xjtu.edu.cn/web/yiliang.liu/home)
 
