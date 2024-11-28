@@ -1,6 +1,6 @@
 ---
 layout: home
-title: Jekyll Gitbook Theme
+title: Yiliang Liu
 permalink: /
 ---
 
@@ -8,7 +8,7 @@ Make Jelly site have a GitBook look!
 
 ## Demo
 
-Live demo on Github Pages: [https://sighingnow.github.io/jekyll-gitbook](https://sighingnow.github.io/jekyll-gitbook)
+
 
 [![Jekyll Themes](https://img.shields.io/badge/featured%20on-JekyllThemes-red.svg)](https://jekyll-themes.com/jekyll-gitbook/)
 
@@ -24,4 +24,6 @@ This theme takes style definition out of generated GitBook site and provided the
 for Jekyll to rendering markdown documents to HTML, thus the whole site can be deployed
 to [Github Pages][1] without generating and uploading HTML bundle every time when there are
 changes to the original repo.
+
+Google Scholar: [https://sighingnow.github.io/jekyll-gitbook]([https://sighingnow.github.io/jekyll-gitbook](https://scholar.google.com/citations?user=beCuvCwAAAAJ&hl=en&authuser=1))
 
