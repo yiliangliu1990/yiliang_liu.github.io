@@ -1,31 +1,14 @@
 ---
 layout: home
-title: Yiliang Liu (Assistant Professor)
+title: Yiliang Liu
 permalink: /
 ---
 
-Make Jelly site have a GitBook look!
+I am currently an assistant professor with the School of Cyber Science and Engineering, Xi’an Jiaotong University (XJTU), Xi’an, China. I was a visiting research student with the Department of Engineering Science, National Cheng Kung University, Tainan, Taiwan, from 02/2014 to 10/2014, and the Department of Electrical and Computer Engineering, University of Waterloo, Waterloo, ON, Canada, from 2018 to 2019. Since 2021, I have been in charge of 10 projects worth 6,555,500CNY. I have published 52 peer-reviewed papers, including prestigious IEEE journals such as IEEE Transactions on Wireless Communications (TWC), IEEE Transactions on Information Forensics and Security (TIFS), IEEE Transactions on Vehicular Technology (TVT), IEEE Systems Journal, IEEE Communications Surveys and Tutorials, etc. I was a recipient of the Outstanding Doctoral Dissertation Award from the China Education Society of Electronics in 2020 and the Best Paper Award from the IEEE Systems Journal in 2021, etc. 
 
 ## Research Interests
 
 Physical layer security, wireless communication, information security, and Internet of Things
-
-
-
-[![Jekyll Themes](https://img.shields.io/badge/featured%20on-JekyllThemes-red.svg)](https://jekyll-themes.com/jekyll-gitbook/)
-
-## Why Jekyll with GitBook
-
-GitBook is an amazing frontend style to present and organize contents (such as book chapters
-and blogs) on Web. The typical to deploy GitBook at [Github Pages][1]
-is building HTML files locally and then push to Github repository, usually to the `gh-pages`
-branch. It's quite annoying to repeat such workload and make it hard for people do version
-control via git for when there are generated HTML files to be staged in and out.
-
-This theme takes style definition out of generated GitBook site and provided the template
-for Jekyll to rendering markdown documents to HTML, thus the whole site can be deployed
-to [Github Pages][1] without generating and uploading HTML bundle every time when there are
-changes to the original repo.
 
 Google Scholar: [Yiliang Liu's Google Scholar](https://scholar.google.com/citations?user=beCuvCwAAAAJ&hl=en&authuser=1)
 
