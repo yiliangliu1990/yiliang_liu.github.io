@@ -1,6 +1,6 @@
 ---
 layout: home
-title: Yiliang Liu
+title: Yiliang Liu (Assistant Professor)
 permalink: /
 ---
 
