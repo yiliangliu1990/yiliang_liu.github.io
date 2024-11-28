@@ -20,13 +20,13 @@ Physical layer security, wireless communication, information security, and Inter
 
 ## Educational Experience
 
-09/2015 - 07/2020, Harbin Institute of Technology, Harbin, China, Doctoral Degree
+09/2015 - 07/2020, Harbin Institute of Technology, Harbin, China, Doctoral Degree, Supervisor: Hsiao-Hwa Chen
 
-09/2018 - 09/2019, University of Waterloo, Waterloo, Canada, Visiting student
+09/2018 - 09/2019, University of Waterloo, Waterloo, Canada, Visiting student, Supervisor: Sherman Shen
 
-09/2012 - 06/2015, Jiangsu University, Zhenjiang, China, Master's Degree 
+09/2012 - 06/2015, Jiangsu University, Zhenjiang, China, Master's Degree, Supervisor: Liangmin Wang
 
-02/2014 - 10/2014, National Cheng Kung University, Tainan, Visiting student 
+02/2014 - 10/2014, National Cheng Kung University, Tainan, Visiting student, Supervisor: Hsiao-Hwa Chen
 
 09/2008 - 07/2012, Jiangsu University, Zhenjiang, China, Bachelor's Degree
 
