@@ -25,5 +25,5 @@ for Jekyll to rendering markdown documents to HTML, thus the whole site can be d
 to [Github Pages][1] without generating and uploading HTML bundle every time when there are
 changes to the original repo.
 
-Google Scholar: [https://sighingnow.github.io/jekyll-gitbook](https://scholar.google.com/citations?user=beCuvCwAAAAJ&hl=en&authuser=1)
+Google Scholar: [Yiliang Liu's Google Scholar](https://scholar.google.com/citations?user=beCuvCwAAAAJ&hl=en&authuser=1)
 
