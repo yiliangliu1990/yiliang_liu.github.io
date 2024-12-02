@@ -6,7 +6,7 @@ category: Jekyll
 layout: post
 ---
 
-# Master Student
+Master Student
 
 - Yibo Qin, Physical layer security
-- Chengyu Yin, Semantic communitcations
+- Chengyu Yin, Semantic communications
