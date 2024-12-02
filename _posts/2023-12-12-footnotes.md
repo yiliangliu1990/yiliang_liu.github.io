@@ -7,4 +7,8 @@ layout: post
 mermaid: true
 ---
 
-Physical layer security
+- Artificial noise based on random matrix theory
+
+- Intelligent reflecting surface-assisted physical layer security
+
+- Semantic communication security
