@@ -6,7 +6,11 @@ category: Jekyll
 layout: post
 ---
 
+PHD Student
+- Chengyu Yin, Semantic communications
+
 Master Student
 
 - Yibo Qin, Physical layer security
-- Chengyu Yin, Semantic communications
+- Junhao Li, LLM-assisted resource management 
+
